@@ -15,10 +15,10 @@ def third_challenge
         :status => "alive"
       },
       :hero_friends => []
-  },
+    },
    :capulet => {
       :patriarch => {
-        :hero => "Lord Capulet",
+        :name => "Lord Capulet",
         :age => "50"
       },
       :matriarch => {
